@@ -688,7 +688,7 @@ function initPage() {
             <p className="section-kicker">Featured requests</p>
             <h2>Community problems currently in motion</h2>
           </div>
-          <a className="btn-secondary" href="/explore">
+          <a className="btn btn-secondary" href="/explore">
             View full feed
           </a>
         </div>
